@@ -1,2 +1,2 @@
-python vcbot.py
+web: python vcbot.py
 
